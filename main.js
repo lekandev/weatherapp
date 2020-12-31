@@ -35,6 +35,9 @@
 
      let hilow = document.querySelector('.hi-low');
      hilow.innerText = `${Math.round(weather.main.temp_min)}°c / ${Math.round(weather.main.temp_max)}°c`;
+
+     //my code!!
+     let background = document.querySelector('')
  }
 
  function dateBuilder (d) {
